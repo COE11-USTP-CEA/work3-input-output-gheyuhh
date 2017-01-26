@@ -6,6 +6,6 @@ class project3io{
         }
         System.out.println("There are " + args.length + " monkeys!");
         System.out.println("Hi Guys!");
-        System.out.println("I'm Wally Rementina <3 Whillien Ghae Caturan :*");
+        System.out.println("I'm Whillien Ghae Caturan :*");
     }
 }
